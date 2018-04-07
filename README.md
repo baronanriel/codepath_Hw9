@@ -14,8 +14,9 @@ One of the first issues was having access to the web application for mhn, withou
 
 
 3. A summary of the data collected: number of attacks, number of malware samples, etc.:
+![](https://github.com/baronanriel/codepath_Hw9/blob/master/sessionMap_Hw9.png)
 ![](https://github.com/baronanriel/codepath_Hw9/blob/master/sessionAttacks_Hw9.png)
-![]()
+
 
 Most of the attacks in the above json are fairly boring and limited to network scans and relatively uninteresting 
 network reconnaissance from various places around the globe.
