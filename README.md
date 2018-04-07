@@ -21,4 +21,5 @@ network reconnaissance from various places around the globe.
 
 
 4. Any unresolved questions raised by the data collected:
+
 The unresolved questions mostly have to do with curiosity for why there are the sheer volume of scans throughout the world that would even manage to touch the honeypot. 
